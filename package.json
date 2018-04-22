@@ -1,0 +1,23 @@
+{
+  "name": "bastianos-scanner",
+  "version": "1.0.0",
+  "description": "Camera scanner for bastianos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarjeremy/bastianos-scanner.git"
+  },
+  "author": "edgarjeremy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarjeremy/bastianos-scanner/issues"
+  },
+  "homepage": "https://github.com/edgarjeremy/bastianos-scanner#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "webrtc-adapter": "^6.1.5"
+  }
+}
