@@ -18,6 +18,9 @@
   "homepage": "https://github.com/edgarjeremy/bastianos-scanner#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "events": "^2.0.0",
+    "fsm-as-promised": "^0.16.0",
+    "visibilityjs": "^1.2.7",
     "webrtc-adapter": "^6.1.5"
   }
 }
